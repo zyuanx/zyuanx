@@ -24,7 +24,12 @@
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
   ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logoColor=white)
 
+
 <div class="half">
   <img src="https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=buefy" height="200"></img></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalzy&theme=buefy" height="200"></img>
 </div>
+
+<!--   GitHub stats graph -->
+<!-- ### 📈 GitHub Activity Graph: -->
+<!-- ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pandalzy&hide_border=true&theme=redical) -->
