@@ -26,8 +26,8 @@
 
 
 <div class="half">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=buefy" height="200"></img></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalzy&theme=buefy" height="200"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=radical" height="200"></img></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalzy&theme=radical" height="200"></img>
 </div>
 
 <!--   GitHub stats graph -->
