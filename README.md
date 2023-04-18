@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [gin-research-sys](https://github.com/Pandalzy/gin-research-sys)
+<!-- - 🔭 I’m currently working on [gin-research-sys](https://github.com/Pandalzy/gin-research-sys) -->
 - 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Gin](https://github.com/gin-gonic/gin)
 - 📚 Programming language: 
   ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
