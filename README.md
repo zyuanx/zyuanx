@@ -1,4 +1,4 @@
-### Hi there, I'm Panda! 👋
+### Hi there! 👋
 
 <!--
 **Pandalzy/PandaLzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
