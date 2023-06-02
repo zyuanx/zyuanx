@@ -24,6 +24,10 @@
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
   ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logoColor=white)
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/Pandalzy/github-stats-transparent@output/generated/overview.svg">
+  <img src="https://cdn.jsdelivr.net/gh/Pandalzy/github-stats-transparent@output/generated/languages.svg">
+</p>
 
 <div class="half">
   <img src="https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=radical" height="200"></img></a>
