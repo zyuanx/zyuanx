@@ -29,10 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Pandalzy/github-stats-transparent@output/generated/languages.svg">
 </p>
 
-<div class="half">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandalzy&show_icons=true&theme=radical" height="200"></img></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalzy&theme=radical" height="200"></img>
-</div>
 
 <!--   GitHub stats graph -->
 <!-- ### 📈 GitHub Activity Graph: -->
