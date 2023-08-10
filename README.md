@@ -25,8 +25,8 @@
   ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logoColor=white)
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/Pandalzy/github-stats-transparent@output/generated/overview.svg">
-  <img src="https://cdn.jsdelivr.net/gh/Pandalzy/github-stats-transparent@output/generated/languages.svg">
+  <img src="https://cdn.jsdelivr.net/gh/zyuanx/github-stats-transparent@output/generated/overview.svg">
+  <img src="https://cdn.jsdelivr.net/gh/zyuanx/github-stats-transparent@output/generated/languages.svg">
 </p>
 
 
