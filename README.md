@@ -14,15 +14,16 @@
 -->
 
 <!-- - 🔭 I’m currently working on [gin-research-sys](https://github.com/Pandalzy/gin-research-sys) -->
-- 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Gin](https://github.com/gin-gonic/gin)
+<!-- - 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Gin](https://github.com/gin-gonic/gin) -->
 - 📚 Programming language: 
-  ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
-- 🔧 Technology stack: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+- 🔧 Technology stack:
+  ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-  ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logoColor=white)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/zyuanx/github-stats-transparent@output/generated/overview.svg">
